@@ -1,0 +1,9 @@
+{
+  "name": "mock",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
